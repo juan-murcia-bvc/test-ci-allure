@@ -1,0 +1,17 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Aug 08 04:14:42 GMT 2024","Thu Aug 08 04:14:42 GMT 2024","28","","com.nuamx.unit_testing.UnitTestingApplicationTests","","com.nuamx.unit_testing.UnitTestingApplicationTests","testDivide","Test Divide","This test attempts to log into the website using a login and a password. Fails if any error happens.
+
+Note that this test does not test 2-Factor Authentication."
+"passed","Thu Aug 08 04:14:43 GMT 2024","Thu Aug 08 04:14:43 GMT 2024","8","","com.nuamx.unit_testing.UnitTesting2ApplicationTests","","com.nuamx.unit_testing.UnitTesting2ApplicationTests","testDivide2","testDivide2()",""
+"passed","Thu Aug 08 04:14:43 GMT 2024","Thu Aug 08 04:14:43 GMT 2024","20","","com.nuamx.unit_testing.UnitTesting2ApplicationTests","","com.nuamx.unit_testing.UnitTesting2ApplicationTests","testMultiply2","testMultiply2()",""
+"passed","Thu Aug 08 04:14:42 GMT 2024","Thu Aug 08 04:14:43 GMT 2024","9","","com.nuamx.unit_testing.UnitTestingApplicationTests","","com.nuamx.unit_testing.UnitTestingApplicationTests","testMultiply","Test Multiply","This test attempts to log into the website using a login and a password. Fails if any error happens.
+
+Note that this test does not test 2-Factor Authentication."
+"passed","Thu Aug 08 04:14:42 GMT 2024","Thu Aug 08 04:14:42 GMT 2024","11","","com.nuamx.unit_testing.UnitTestingApplicationTests","","com.nuamx.unit_testing.UnitTestingApplicationTests","testSubtract","Test Subtract","This test attempts to log into the website using a login and a password. Fails if any error happens.
+
+Note that this test does not test 2-Factor Authentication."
+"passed","Thu Aug 08 04:14:43 GMT 2024","Thu Aug 08 04:14:43 GMT 2024","15","","com.nuamx.unit_testing.UnitTesting2ApplicationTests","","com.nuamx.unit_testing.UnitTesting2ApplicationTests","testAdd2","testAdd2()",""
+"passed","Thu Aug 08 04:14:43 GMT 2024","Thu Aug 08 04:14:43 GMT 2024","9","","com.nuamx.unit_testing.UnitTesting2ApplicationTests","","com.nuamx.unit_testing.UnitTesting2ApplicationTests","testSubtract2","testSubtract2()",""
+"passed","Thu Aug 08 04:14:41 GMT 2024","Thu Aug 08 04:14:42 GMT 2024","873","","com.nuamx.unit_testing.UnitTestingApplicationTests","","com.nuamx.unit_testing.UnitTestingApplicationTests","testAdd","Test Add","This test attempts to log into the website using a login and a password. Fails if any error happens.
+
+Note that this test does not test 2-Factor Authentication."
