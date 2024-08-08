@@ -17,7 +17,7 @@ jobs:
           distribution: 'temurin'  
 
       - name: Build and test with Maven
-        run: mvn test
+        run: mvn clean test
 
       - name: Load test report history
         uses: actions/checkout@v3
